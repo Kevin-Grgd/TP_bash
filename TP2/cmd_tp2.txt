@@ -1,0 +1,7 @@
+Compte rendu
+
+2.1) Retour sur TD
+3. Rien ne change, le lien symbolique exécute le script de destination (équivalent raccourci sur Windows).
+
+4) Boucles
+4. Il n'y a pas de vérification si les fichiers à effacer existent ou si le dossier de destination existe.
